@@ -33,6 +33,7 @@ public class FirstPersonController : MonoBehaviour
     public bool crosshair = true;
     public Sprite crosshairImage;
     public Color crosshairColor = Color.white;
+    public float crosshairSize = 1f;
 
     // Internal Variables
     private float yaw = 0.0f;
@@ -525,6 +526,23 @@ public class FirstPersonController : MonoBehaviour
             timer = 0;
             joint.localPosition = new Vector3(Mathf.Lerp(joint.localPosition.x, jointOriginalPos.x, Time.deltaTime * bobSpeed), Mathf.Lerp(joint.localPosition.y, jointOriginalPos.y, Time.deltaTime * bobSpeed), Mathf.Lerp(joint.localPosition.z, jointOriginalPos.z, Time.deltaTime * bobSpeed));
         }
+    }
+    
+    public void setCrosshairSize(float size)
+    {
+        crosshairObject.rectTransform.sizeDelta *= size;
+        this.crosshairSize = 2f;
+    }
+    
+    public void reduceCrosshairSize(float size)
+    {
+        crosshairObject.rectTransform.sizeDelta /= size;
+        this.crosshairSize = 1f;
+    }
+    
+    public float getCrosshairSize()
+    {
+        return crosshairSize;
     }
 }
 
