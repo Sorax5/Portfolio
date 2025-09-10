@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 m_EditorVersion: 6000.1.3f1
 m_EditorVersionWithRevision: 6000.1.3f1 (f34db9734971)
+=======
+m_EditorVersion: 6000.2.0f1
+m_EditorVersionWithRevision: 6000.2.0f1 (eed1c594c913)
+>>>>>>> Stashed changes
