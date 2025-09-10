@@ -56,7 +56,6 @@ MonoBehaviour:
       - rid: 5025198600972926977
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
       - rid: 6172286887635451904
       - rid: 6172286887635451905
       - rid: 6172286887635451906
@@ -65,8 +64,6 @@ MonoBehaviour:
       - rid: 6172286887635451909
       - rid: 6172286887635451910
 =======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
       - rid: 6730875071838552064
@@ -78,9 +75,6 @@ MonoBehaviour:
       - rid: 6730875071838552070
       - rid: 6730875071838552071
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -169,11 +163,8 @@ MonoBehaviour:
         m_DefaultSpriteMaterial: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     - rid: 5025198672843374596
 =======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     - rid: 5025198601922675287
@@ -199,7 +190,6 @@ MonoBehaviour:
         voxelizeSceneShader: {fileID: 4800000, guid: c8b6a681c7b4e2e4785ffab093907f9e, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
         traceVirtualOffsetCS: {fileID: 7200000, guid: 805f10d263aac4b4098c0279cd37a4f3, type: 3}
         traceVirtualOffsetRT: {fileID: 4807578003741378534, guid: b60511f4aa1443f4d8c0b18f4fec92f4, type: 3}
         skyOcclusionCS: {fileID: 7200000, guid: 798f52ec82fa04048a12826bbbbcf7b4, type: 3}
@@ -208,8 +198,6 @@ MonoBehaviour:
         renderingLayerRT: {fileID: -5126288278712620388, guid: 94a070d33e408384bafc1dea4a565df9, type: 3}
     - rid: 5025198672843374598
 =======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         traceVirtualOffsetCS: {fileID: -6772857160820960102, guid: ff2cbab5da58bf04d82c5f34037ed123, type: 3}
@@ -250,11 +238,7 @@ MonoBehaviour:
         probeVolumeUploadDataL2CS: {fileID: 7200000, guid: 6196f34ed825db14b81fb3eb0ea8d931, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     - rid: 6172286887635451904
-=======
-    - rid: 6730875071838552064
->>>>>>> Stashed changes
 =======
     - rid: 6730875071838552064
 >>>>>>> Stashed changes
@@ -282,11 +266,7 @@ MonoBehaviour:
         m_ShaderResourcesVersion: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     - rid: 6172286887635451905
-=======
-    - rid: 6730875071838552065
->>>>>>> Stashed changes
 =======
     - rid: 6730875071838552065
 >>>>>>> Stashed changes
@@ -299,7 +279,6 @@ MonoBehaviour:
         m_Version: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     - rid: 6172286887635451906
       type: {class: UniversalRenderPipelineEditorAssets, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
@@ -308,17 +287,12 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     - rid: 6730875071838552066
       type: {class: UniversalRenderPipelineEditorAssets, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         m_DefaultSettingsVolumeProfile: {fileID: 11400000, guid: eda47df5b85f4f249abf7abd73db2cb2, type: 2}
     - rid: 6730875071838552067
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -335,11 +309,7 @@ MonoBehaviour:
         m_Version: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     - rid: 6172286887635451908
-=======
-    - rid: 6730875071838552068
->>>>>>> Stashed changes
 =======
     - rid: 6730875071838552068
 >>>>>>> Stashed changes
@@ -397,7 +367,6 @@ MonoBehaviour:
         m_TexturesResourcesVersion: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     - rid: 6172286887635451909
       type: {class: LightmapSamplingSettings, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Core.Runtime}
       data:
@@ -407,17 +376,12 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     - rid: 6730875071838552069
       type: {class: RenderingDebuggerRuntimeResources, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Core.Runtime}
       data:
         m_version: 0
     - rid: 6730875071838552070
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -449,10 +413,7 @@ MonoBehaviour:
           - {r: 0, g: 0, b: 1, a: 1}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 =======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     - rid: 6730875071838552071
@@ -461,9 +422,6 @@ MonoBehaviour:
         m_Version: 1
         m_UseBicubicLightmapSampling: 0
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
